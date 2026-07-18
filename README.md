@@ -41,3 +41,16 @@ SCT_WD_2/
 ├── index.html
 └── README.md
 ```
+## Screenshots
+
+### Default Stopwatch
+
+![Default Stopwatch](./screenshots/stopwatch-default.png)
+
+### Running Stopwatch
+
+![Running Stopwatch](./screenshots/stopwatch-running.png)
+
+### Stopwatch with Lap Times
+
+![Stopwatch with Lap Times](./screenshots/stopwatch-laps.png)
