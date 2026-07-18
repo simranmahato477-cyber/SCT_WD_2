@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>Stopwatch | SkillCraft Technology</title>
+
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+  <main class="stopwatch-container">
+    <header class="app-header">
+      <p class="task-label">SkillCraft Technology Internship</p>
+
+      <h1>Stopwatch</h1>
+
+      <p class="subtitle">
+        Measure time accurately and record lap intervals.
+      </p>
+    </header>
+
+    <section class="stopwatch-card">
+      <div
+        id="timeDisplay"
+        class="time-display"
+        aria-live="polite"
+      >
+        00:00:00.000
+      </div>
+
+      <div class="controls">
+        <button
+          type="button"
+          id="startButton"
+          class="button start-button"
+        >
+          Start
+        </button>
+
+        <button
+          type="button"
+          id="pauseButton"
+          class="button pause-button"
+          disabled
+        >
+          Pause
+        </button>
+
+        <button
+          type="button"
+          id="lapButton"
+          class="button lap-button"
+          disabled
+        >
+          Lap
+        </button>
+
+        <button
+          type="button"
+          id="resetButton"
+          class="button reset-button"
+          disabled
+        >
+          Reset
+        </button>
+      </div>
+    </section>
+
+    <section class="lap-section">
+      <div class="lap-heading">
+        <h2>Lap Times</h2>
+        <span id="lapCount">0 laps</span>
+      </div>
+
+      <p id="emptyLapMessage" class="empty-message">
+        No lap times recorded.
+      </p>
+
+      <ol id="lapList" class="lap-list"></ol>
+    </section>
+  </main>
+
+  <script src="./js/script.js"></script>
+</body>
+</html>
