@@ -33,6 +33,10 @@ The application allows users to start, pause, resume, and reset the stopwatch. I
 
 ```text
 SCT_WD_2/
+├── QA/
+│   ├── Bug_Report.md
+│   ├── Test_Cases.md
+│   └── Test_Result.md
 ├── css/
 │   └── style.css
 ├── js/
@@ -94,4 +98,3 @@ No npm installation is required because this project uses HTML, CSS, and JavaScr
 ## Live Demo
 
 🔗 https://simranmahato477-cyber.github.io/SCT_WD_2/
-
