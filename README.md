@@ -58,3 +58,12 @@ SCT_WD_2/
 ## Repository Link
 
 [View Project on GitHub](https://github.com/simranmahato477-cyber/SCT_WD_2)
+
+## Installation Instructions
+
+Follow these steps to run the project locally:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/simranmahato477-cyber/SCT_WD_2.git
