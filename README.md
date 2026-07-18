@@ -67,3 +67,24 @@ Follow these steps to run the project locally:
 
 ```bash
 git clone https://github.com/simranmahato477-cyber/SCT_WD_2.git
+```
+
+2. Open the project folder:
+
+```bash
+cd SCT_WD_2
+```
+
+3. Open the project in Visual Studio Code:
+
+```bash
+code .
+```
+
+4. Run the project:
+
+- Open `index.html` directly in your browser, or
+- Right-click `index.html` in VS Code and select **Open with Live Server**.
+
+No npm installation is required because this project uses HTML, CSS, and JavaScript only.
+
