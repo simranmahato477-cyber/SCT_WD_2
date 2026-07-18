@@ -54,3 +54,7 @@ SCT_WD_2/
 ### Stopwatch with Lap Times
 
 ![Stopwatch with Lap Times](./screenshots/stopwatch-laps.png)
+
+## Repository Link
+
+[View Project on GitHub](https://github.com/simranmahato477-cyber/SCT_WD_2)
