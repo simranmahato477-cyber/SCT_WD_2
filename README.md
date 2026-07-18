@@ -91,3 +91,7 @@ code .
 
 No npm installation is required because this project uses HTML, CSS, and JavaScript only.
 
+## Live Demo
+
+🔗 https://simranmahato477-cyber.github.io/SCT_WD_2/
+
