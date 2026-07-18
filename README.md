@@ -24,7 +24,10 @@ The application allows users to start, pause, resume, and reset the stopwatch. I
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (ES6)
+- Visual Studio Code
+- Git
+- GitHub
 
 ## Project Structure
 
